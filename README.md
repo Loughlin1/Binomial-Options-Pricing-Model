@@ -1,0 +1,1 @@
+Python implementation of the Binomial Option Pricing Model as a function taking parameters for the initial stock price (S), the strike price (K), time to maturity (T), risk-free rate (r), volatility (sigma), number of steps in the binomial tree (N), and the type of the option (either 'call' or 'put'). The Python notebook also includes tests of the function for common examples.
